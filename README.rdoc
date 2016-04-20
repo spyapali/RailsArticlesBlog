@@ -1,3 +1,2 @@
 RailsArticlesBlog
-
   A basic rails app for adding and displaying articles. 
