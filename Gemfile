@@ -22,6 +22,11 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
+# import bootstrap as gem. 
+gem 'bootstrap-sass', '~> 3.2.0'
+# import autoprefixer so as to use scss files on the fly. 
+gem 'autoprefixer-rails'
+
 
 
 # Use ActiveModel has_secure_password
